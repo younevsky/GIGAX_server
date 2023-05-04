@@ -1,8 +1,11 @@
 # GIGAX-server
 
-GIGAX-server is used to communicate between attacker and victim. It is very easy to host on [heroku](https://www.heroku.com/). follow the below steps:
+GIGAX-server is used to communicate between attacker and victim. It is very easy to host.
 
-#### Setup
+####[heroku](https://www.heroku.com/)
+
+follow the below steps:
+## Setup
 - Signup and create a heroku account [here](https://signup.heroku.com)
 - After login, click the below **Deploy** button.
 
