@@ -1,15 +1,15 @@
 {
-  "name": "xhunter-server",
+  "name": "GIGAX_server",
   "version": "1.0.0",
-  "description": "backbone for xhunter app",
+  "description": "backbone for GIGAX app",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [
-    "xhunter-server"
+    "GIGAX_server"
   ],
-  "author": "anirudhmalik",
+  "author": "younevsky",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.1",
